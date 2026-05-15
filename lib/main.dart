@@ -3,6 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'weather_model.dart';
 import 'weather_cubit.dart';
 
+//Bu sayfa baslangic sayfasidir.
 void main() => runApp(MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark(),
